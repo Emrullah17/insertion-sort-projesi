@@ -41,4 +41,4 @@ Best Case : Aradığımız sayının dizinin en başında olması. Dizinin sıra
 
 [2,3,4,5,|7,9,8,15,6] Dördüncü adım
 
-[patika.dev][https://www.patika.dev/tr]
+[patika.dev](https://www.patika.dev/tr)
